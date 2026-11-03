@@ -1,0 +1,68 @@
+Anthropic's CCAR-F (Claude Certified Architect – Foundations) and CCAR-P (Claude Certified Architect – Professional) certifications are valuable learning milestones for professionals interested in Claude AI, AI architecture, and agentic AI development.
+
+This repository is intended to help candidates explore certification topics, organize their preparation, and discover useful learning resources.
+
+CCAR-F Certification Preparation
+
+The CCAR-F preparation journey should begin with a strong understanding of Claude and its ecosystem.
+
+Important topics to study include:
+
+Claude models and capabilities
+
+Claude API fundamentals
+
+Prompt engineering and context management
+
+Tool use and function calling
+
+Model Context Protocol (MCP)
+
+AI safety and responsible AI
+
+Claude application architecture
+
+CCAR-P Certification Preparation
+
+CCAR-P preparation requires deeper technical understanding and practical experience.
+
+Recommended study areas:
+
+Advanced Claude API integration
+
+Multi-agent architecture
+
+Agentic workflows
+
+MCP integrations
+
+Multi-tool orchestration
+
+AI application evaluation
+
+Reliability and security
+
+Production-ready AI solutions
+
+Recommended Study Resources
+
+Candidates should prioritize official Anthropic documentation, learning courses, and practical development exercises.
+
+Additional practice resources can also help candidates evaluate their knowledge. During my preparation, I explored Pass4Surexams for supplementary CCAR-F and CCAR-P PDF study materials and test engine practice.
+
+Combining documentation, hands-on projects, and practice questions can make preparation more structured.
+
+Practical Projects to Build
+
+Here are some useful project ideas for candidates:
+
+Build a Claude-powered research assistant.
+
+Create an MCP-connected application.
+
+Develop a multi-tool AI agent.
+
+Build a structured data extraction workflow.
+
+Implement an AI evaluation pipeline.
+
